@@ -34,7 +34,7 @@ public class Loginpage
 	}
 	public void clickpwdnext()
 	{
-		pwdnext.click();
+		pwdnext.click();//this is repository
 	}
 
 }
